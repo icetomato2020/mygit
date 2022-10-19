@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="E:/myTool/dtd/mybatis-3-config.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="E:/myTool/dtd/mybatis-3-mapper.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="E:/myTool/dtd/mybatis-generator-config_1_0.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="E:/myTool/xsd/spring-beans.xsd" />
+  </component>
+</project>
